@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container{
+                height:500px;
+                width:100%;
+                background-color: antiquewhite;
+                text-align: center;
+                background-image: url('hsp.jpg');
+                
+        }
+        #header{
+            height:100px;
+            width:100%;
+            background-color: aqua;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div id="header"><marquee direction ="left" scrollamount="13"><h2 style="color: rgb(18, 21, 15);">Instant Online Appointment Booking With Top Apollo Doctors
+
+        </h2></marquee></div>
+        <b>Your Health Matters – Book Your Doctor's Appointment Online Today!
+
+            "Taking care of your health is our top priority. Whether you're scheduling a routine check-up or need a consultation, we're here to help. Click below to easily register for your doctor's appointment and start your journey to better health."
+            
+            </b>
+       <center> <a href="new.html" target="content">Click Here to Schedule Your Appointment</a></center>
+    </div>
+</body>
+</html>
+
+
+NEW>html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container{
+           background-color: antiquewhite;
+           padding:20px;
+           width:25%;
+           height:50%;  
+           margin:auto;
+        }
+    </style>
+</head>
+<body style="background-image:url(doctors-nurses.jpg)"> 
+    <div class="container">
+    <center>    
+        <form>
+        NAME:
+        <input type="text" name="NAME"><br>
+        MOBILE NUMBER
+        <input type="number" ><br>
+        ADDRESS
+        <input type="text" ><br>
+        SELECT CITY:<br>
+        <input type="radio" name="name" value="HYDERABAD"><i>HYDERABAD</i><br>
+        <input type="radio" name="name" value="BANGLORE"><i>BANGLORE</i><br>
+        <input type="radio" name="name" value="CHENNAI"><i>CHENNAI</i><br>
+        <input type="radio" name="name" value="COCHIN"><i>COCHIN</i><br>
+        SELECT SPECIALITY<br>
+        <input type="checkbox" name="name" value="Dermatology"><i>Dermatology</i><br>
+        <input type="checkbox" name="name" value="General Physician"><i>General Physician</i><br>
+        <input type="checkbox" name="name" value="Ent"><i>Ent</i><br>
+        <input type="checkbox" name="name" value="Cardiology"><i>Cardilogy</i><br>
+        <input type="submit" value="REGISTER">
+    </form>
+    
+</center>
+</div>
+
+</body>
+</html>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
